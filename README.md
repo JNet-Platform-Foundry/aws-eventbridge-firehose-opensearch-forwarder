@@ -677,7 +677,7 @@ Anything that builds or deploys this product pins a release; nothing tracks
   ```yaml
   - uses: actions/checkout@v4
     with:
-      repository: jnet-platform-factory/aws-eventbridge-firehose-opensearch-forwarder
+      repository: JNet-Platform-Foundry/aws-eventbridge-firehose-opensearch-forwarder
       ref: <full commit sha>   # vX.Y.Z
       path: events-observability
   ```
