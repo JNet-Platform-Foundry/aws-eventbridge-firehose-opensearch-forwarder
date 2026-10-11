@@ -47,7 +47,7 @@ MUST_NOT_CATCH = [
     "arn:aws:es:us-east-1:111122223333:domain/acme/*",
     "AlertEmail=ops@example.com",
     "noreply@example.org",
-    "https://github.com/jnet-platform-factory/aws-eventbridge-firehose-opensearch-forwarder",
+    "https://github.com/JNet-Platform-Foundry/aws-eventbridge-firehose-opensearch-forwarder",
     "SemanticVersion: 1.0.0",
     "arn:aws:serverlessrepo:us-east-1:<account>:applications/AWS-EventBridge-Firehose-OpenSearch-Forwarder",
     "arn:aws:serverlessrepo:us-east-1:<account>:applications/serverless-events-observability",
